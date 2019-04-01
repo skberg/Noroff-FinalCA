@@ -17,15 +17,13 @@
    http://localhost:8080/
 
 
+1.
+
+<img width="585" alt="Skjermbilde 2019-04-01 kl  15 59 37" src="https://user-images.githubusercontent.com/32140076/55333251-3192a600-5497-11e9-8d70-2f749df297a5.png">
 
 
 
-To start the app you will need to have Vue installed and runing, to open the app you need to run the following command in the cli 
-```
-yarn run serve
-or
-npm run serve
-```
+
 2.
 
 <img width="589" alt="Skjermbilde 2019-04-01 kl  15 35 36" src="https://user-images.githubusercontent.com/32140076/55331619-f0e55d80-5493-11e9-80f0-8b39d87dd9ca.png">
@@ -37,23 +35,6 @@ npm run serve
 
 
 
-
-
-
-
-### Compiles and minifies for production
-```
-yarn run build
-```
-
-
-
-
-
-### Lints and fixes files
-```
-yarn run lint
-```
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
