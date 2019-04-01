@@ -8,7 +8,7 @@ yarn run serve
 or
 npm run serve
 ```
-
+<img width="589" alt="Skjermbilde 2019-04-01 kl  15 35 36" src="https://user-images.githubusercontent.com/32140076/55331619-f0e55d80-5493-11e9-80f0-8b39d87dd9ca.png">
 
 ### Compiles and minifies for production
 ```
