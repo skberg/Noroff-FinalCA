@@ -26,8 +26,15 @@ yarn run serve
 or
 npm run serve
 ```
+2.
 
 <img width="589" alt="Skjermbilde 2019-04-01 kl  15 35 36" src="https://user-images.githubusercontent.com/32140076/55331619-f0e55d80-5493-11e9-80f0-8b39d87dd9ca.png">
+
+3.
+
+<img width="585" alt="Skjermbilde 2019-04-01 kl  15 37 53" src="https://user-images.githubusercontent.com/32140076/55332883-8255cf00-5496-11e9-9a4f-b072dbfa13b2.png">
+
+
 
 
 
