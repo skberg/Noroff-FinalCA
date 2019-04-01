@@ -3,12 +3,17 @@
 ### To start the Vue app
 
 1. First you will need to have vue install
+
   How to install Vue.js - https://vuejs.org/v2/guide/installation.html 
   cli installing        - https://cli.vuejs.org/guide/installation.html
-2. You will need to run the command found below 
+
+2. You will need to run the command found below
+
   How to serve the Vue.js - https://cli.vuejs.org/guide/cli-service.html#using-the-binary
+
 3. copy the host url that shows up in the cli after the commando over 
-  - http://localhost:8080/
+
+   http://localhost:8080/
 
 
 
