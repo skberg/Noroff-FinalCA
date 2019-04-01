@@ -1,14 +1,14 @@
-# my-project
+# Noroff- CA JS_framework
 
-## Project setup
-```
-yarn install
-```
+### Compiles and hot-reloads for development starting the vue app
 
-### Compiles and hot-reloads for development
+To start the app you will need to have Vue installed and runing, to open the app you need to run the following command in the cli 
 ```
 yarn run serve
+or
+npm run serve
 ```
+
 
 ### Compiles and minifies for production
 ```
